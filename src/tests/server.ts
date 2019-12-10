@@ -11,7 +11,7 @@ import * as os from 'os';
 import * as cluster from 'cluster';
 import * as v8 from 'v8';
 import logger from '../logger';
-import serverList from '../serverList';
+import serverList from './serverList';
 
 //#region -> config
 import('../config');

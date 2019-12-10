@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@alexxnica/otserv-info",
+  "name": "@alexxnicastro/otserv-info",
   "description": "Client library for accessing information about Open Tibia Servers.",
   "version": "0.1.0",
   "homepage": "https://alexxnica.github.io/otserv-info",
@@ -54,6 +54,6 @@
     "typescript": "^2.7.0-insiders.20171214"
   },
   "dependencies": {
-    "@alexxnica/tslint-configs": "0.0.4"
+    "@alexxnicastro/tslint-configs": "*"
   }
 }
